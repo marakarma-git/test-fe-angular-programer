@@ -5,8 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Screenshoots
 1. Login
   - ![login](https://user-images.githubusercontent.com/90307565/215350719-97077db0-96a3-449a-b2ff-f6117248508b.png)
-2. Dashboard
-  - ![dashboard](https://user-images.githubusercontent.com/90307565/215350701-2f9b626c-79e9-4d48-9c6b-51c96afca516.png)
+<!-- 2. Dashboard
+  - ![dashboard](https://user-images.githubusercontent.com/90307565/215350701-2f9b626c-79e9-4d48-9c6b-51c96afca516.png) -->
 3. User
   - User Index
     - ![user-index](https://user-images.githubusercontent.com/90307565/215350724-9a0e64ed-11e2-42f9-bb3c-d9680e570e16.png)
