@@ -1,0 +1,340 @@
+{
+  "users": [
+    {
+      "fullname": "Mara Karma",
+      "username": "marakarma",
+      "mobile": 82124668801,
+      "email": "marakarma36@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "fullname": "Rini Perdana",
+      "username": "riniperdana",
+      "mobile": 81217483285,
+      "email": "rini@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "fullname": "Administrator",
+      "username": "admin",
+      "mobile": 81254673612,
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "fullname": "Daniel Utama",
+      "username": "daniel",
+      "mobile": 81254673612,
+      "email": "daniel@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "fullname": "Ferry Fahrudin",
+      "username": "ferry",
+      "mobile": 81254673612,
+      "email": "ferry@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "fullname": "Febi Ananda",
+      "username": "feby",
+      "mobile": 81254673612,
+      "email": "feby@gmail.com",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "fullname": "Hana",
+      "username": "hana",
+      "mobile": 81254673612,
+      "email": "hana@gmail.com",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "fullname": "Sonya Sania",
+      "username": "sonya",
+      "mobile": 81254673612,
+      "email": "sonya@gmail.com",
+      "password": "12345",
+      "id": 8
+    },
+    {
+      "fullname": "Jimmy Doly",
+      "username": "jimmy",
+      "mobile": 81254673612,
+      "email": "jimmy@gmail.com",
+      "password": "12345",
+      "id": 9
+    },
+    {
+      "fullname": "Raina Unzurna",
+      "username": "raina",
+      "mobile": 81254673612,
+      "email": "raina@gmail.com",
+      "password": "12345",
+      "id": 10
+    },
+    {
+      "fullname": "Monica Putry",
+      "username": "monica",
+      "mobile": 81254673612,
+      "email": "monica@gmail.com",
+      "password": "12345",
+      "id": 11
+    }
+  ],
+  "employees": [
+    {
+      "username": "marakarma",
+      "firstName": "Mara",
+      "lastName": "Karma",
+      "email": "marakarma36@gmail.com",
+      "birthDate": "1995-02-17",
+      "basicSalary": "Rp10,000,000",
+      "status": "contract",
+      "group": "Talent Accusition",
+      "description": "description",
+      "id": 1
+    },
+    {
+      "username": "hamdan",
+      "firstName": "Hamdan",
+      "lastName": "Yuafi",
+      "email": "hamdan@gmail.com",
+      "birthDate": "1994-02-21",
+      "basicSalary": "Rp12,000,000",
+      "status": "contract",
+      "group": "IT Developer",
+      "description": "description",
+      "id": 2
+    },
+    {
+      "username": "Hernowo",
+      "firstName": "Hernowo",
+      "lastName": "Enno",
+      "email": "hernowo@gmail.com",
+      "birthDate": "1992-03-17",
+      "basicSalary": "Rp14,000,000",
+      "status": "contract",
+      "group": "Team Lead",
+      "description": "description",
+      "id": 3
+    },
+    {
+      "username": "ferry",
+      "firstName": "Ferry",
+      "lastName": "Fahruddin",
+      "email": "ferry@gmail.com",
+      "birthDate": "1990-02-12",
+      "basicSalary": "Rp20,000,000",
+      "status": "contract",
+      "group": "Project Manager",
+      "description": "description",
+      "id": 4
+    },
+    {
+      "username": "herni",
+      "firstName": "Herni ",
+      "lastName": "Saputri",
+      "email": "marakarma36@gmail.com",
+      "birthDate": "1995-02-17",
+      "basicSalary": "Rp10,000,000",
+      "status": "contract",
+      "group": "Talent Accusition",
+      "description": "description",
+      "id": 5
+    },
+    {
+      "username": "dwicahyo",
+      "firstName": "Dwicahyo",
+      "lastName": "Herlambang",
+      "email": "dwicahyo@gmail.com",
+      "birthDate": "1994-02-17",
+      "basicSalary": "Rp12,000,000",
+      "status": "permanent",
+      "group": "IT Developer",
+      "description": "description",
+      "id": 6
+    },
+    {
+      "username": "rizki",
+      "firstName": "Rizki",
+      "lastName": "Afgan",
+      "email": "rizki@gmail.com",
+      "birthDate": "1993-02-17",
+      "basicSalary": "Rp12,000,000",
+      "status": "permanent",
+      "group": "IT Developer",
+      "description": "description",
+      "id": 7
+    },
+    {
+      "username": "marakarma",
+      "firstName": "Mara",
+      "lastName": "Karma",
+      "email": "marakarma36@gmail.com",
+      "birthDate": "1995-02-17",
+      "basicSalary": "Rp10,000,000",
+      "status": "contract",
+      "group": "Talent Accusition",
+      "description": "description",
+      "id": 8
+    },
+    {
+      "username": "marakarma",
+      "firstName": "Mara",
+      "lastName": "Karma",
+      "email": "marakarma36@gmail.com",
+      "birthDate": "1995-02-17",
+      "basicSalary": "Rp10,000,000",
+      "status": "contract",
+      "group": "Talent Accusition",
+      "description": "description",
+      "id": 9
+    },
+    {
+      "username": "marakarma",
+      "firstName": "Mara",
+      "lastName": "Karma",
+      "email": "marakarma36@gmail.com",
+      "birthDate": "1995-02-17",
+      "basicSalary": "Rp10,000,000",
+      "status": "contract",
+      "group": "Talent Accusition",
+      "description": "description",
+      "id": 10
+    },
+    {
+      "username": "marakarma",
+      "firstName": "Mara",
+      "lastName": "Karma",
+      "email": "marakarma36@gmail.com",
+      "birthDate": "1995-02-17",
+      "basicSalary": "Rp10,000,000",
+      "status": "contract",
+      "group": "Talent Accusition",
+      "description": "description",
+      "id": 11
+    }
+  ],
+  "sales": [
+    {
+      "year": 2015,
+      "amount": 5000,
+      "colorcode": "green"
+    },
+    {
+      "year": 2016,
+      "amount": 6000,
+      "colorcode": "yellow"
+    },
+    {
+      "year": 2017,
+      "amount": 2000,
+      "colorcode": "red"
+    },
+    {
+      "year": 2018,
+      "amount": 6500,
+      "colorcode": "blue"
+    },
+    {
+      "year": 2019,
+      "amount": 4000,
+      "colorcode": "grey"
+    },
+    {
+      "year": 2020,
+      "amount": 7000,
+      "colorcode": "orange"
+    },
+    {
+      "year": 2021,
+      "amount": 17000,
+      "colorcode": "pink"
+    }
+  ],
+  "group": [
+    {
+      "id": 1,
+      "groupname": "Project Manager"
+    },
+    {
+      "id": 2,
+      "groupname": "Team Lead"
+    },
+    {
+      "id": 3,
+      "groupname": "Recruiter"
+    },
+    {
+      "id": 4,
+      "groupname": "Finance"
+    },
+    {
+      "id": 5,
+      "groupname": "IT Developer"
+    },
+    {
+      "id": 6,
+      "groupname": "General Affair"
+    }
+  ],
+  "status": [
+    {
+      "id": 1,
+      "statusName": "Contract"
+    },
+    {
+      "id": 2,
+      "statusName": "Permanent"
+    },
+    {
+      "id": 3,
+      "statusName": "Freelance"
+    }
+  ],
+  "employeeQuantity": [
+    {
+      "year": 2017,
+      "amount": 100,
+      "colorcode": "green"
+    },
+    {
+      "year": 2018,
+      "amount": 200,
+      "colorcode": "yellow"
+    },
+    {
+      "year": 2019,
+      "amount": 300,
+      "colorcode": "red"
+    },
+    {
+      "year": 2020,
+      "amount": 400,
+      "colorcode": "blue"
+    },
+    {
+      "year": 2021,
+      "amount": 500,
+      "colorcode": "grey"
+    },
+    {
+      "year": 2022,
+      "amount": 600,
+      "colorcode": "orange"
+    },
+    {
+      "year": 2023,
+      "amount": 700,
+      "colorcode": "pink"
+    }
+  ]
+}
